@@ -1,0 +1,26 @@
+_repo: Advanced-Toy-Making-for-Schools_36815
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36815-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Mitchell, David M.
+    gutenberg_agent_id: '38483'
+    url: http://www.gutenberg.org/2009/agents/38483
+description: ''
+gutenberg_issued: '2011-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36815'
+  lccn: '22025169'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Toys'
+- !lcc 'TS'
+- !lcsh 'Woodwork (Manual training)'
+title: Advanced Toy Making for Schools
+url: http://www.gutenberg.org/ebooks/36815
